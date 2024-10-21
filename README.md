@@ -1,0 +1,2 @@
+# Create-a-Password-Validator-App-in-Python-with-Tkinter
+Password Validator with Tkinter 🔐 A Python app built using Tkinter to validate password strength based on essential security criteria. The program checks for minimum length, uppercase letters, lowercase letters, numbers, and special characters, and evaluates the password as Weak, Medium, or Strong. Includes error handling and a user-friendly GUI.
